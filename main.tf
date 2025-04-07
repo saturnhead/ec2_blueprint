@@ -22,7 +22,7 @@ provider "aws" {
 
 locals {
   ami_ids = {
-    "ubuntu"       = "ami-074a5fb239d2141b"
+    "ubuntu"       = "ami-09cba89b0e91c8130"
     "amazon-linux" = "ami-0a8e758f5e873d1c1"
   }
 }
